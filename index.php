@@ -41,6 +41,14 @@
             background-color: #ddd;
             margin: 20px 0;
         }
+        .footer-image {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .footer-image img {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
@@ -80,6 +88,10 @@ include "random.php";
         echo '<div class="item">' . unobjet() . '</div>';
     }
     ?>
+</div>
+
+<div class="footer-image">
+    <img src="arm.jpg" alt="Image d'armure">
 </div>
 
 </body>
