@@ -6,7 +6,7 @@ $Adjectif = ["terrifiant", "sanglant", "Maudite", "Sacrée", "Magique", "Bénie"
 
 $Objetdégats = ["épée courte la ", "marteau de guerre le ", "arc le ", "épée longue la ", "fléau le ", "Baton le ", "arbalète la ","lance la","rapière la","cimeterre le"];
 
-$Objetdedéfense = [" armure loude la ", "+bonus dex armure intermédiaire (max CA 21) la ", "+bonus dex armure légère (max CA 21) la "];
+$Objetdedéfense = [" armure loude la ", "+bonus dex armure intermédiaire (max CA 18) la ", "+bonus dex armure légère (max CA 15) la "];
 
 $Objetannexe = ["anneau ", "colier ", "bracelet", "boucle d'oreille ", "broche ", "idole divine", "colier de dent", "bague", "bouclier +1 CA le ", "bouclier +1 CA le ", "bouclier +2 CA le ", "casque +1 CA le "];
 
